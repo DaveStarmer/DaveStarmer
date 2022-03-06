@@ -9,7 +9,8 @@ C++ and Python): https://github.com/DaveStarmer/Game-FromBook-Js
 
 # Reading 📖
 I'm reading:
-- [Test-Driven Development by Kent Beck](https://www.amazon.co.uk/Test-Driven-Development-Addison-Wesley-Signature/dp/0321146530/ref=sr_1_1?keywords=test+driven+development&qid=1646591788&s=books&sprefix=test+driven%2Cstripbooks%2C74&sr=1-1)
+- [Test-Driven Development by Kent Beck](https://www.amazon.co.uk/Test-Driven-Development-Addison-Wesley-Signature/dp/0321146530/)
+- [The Storyteller: Tales of Life and Music by Dave Grohl](https://www.amazon.co.uk/Storyteller-Tales-Life-Music/dp/1398503703/)
 
 # Studying 🌱
 I'm currently studing (ending March 2022):
